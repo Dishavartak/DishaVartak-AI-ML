@@ -1,0 +1,96 @@
+<html>
+<head>
+	<title>VIVA College of Diploma Engineering & Technology</title>
+             <body>
+			<div id="page">
+<div id="header">
+
+<div id=headerTitle align= "center",text=26>VIVA College of Diploma Engineering & Technology</div>
+<div id=headerSubText align="center">Approved By A.I.C.T.E(New Dehli) & D.T.E Maharashtra State Affiliated to MSBTE,Mumbai<br>
+At Bolinj Virar(W),Taluka Vasai,District:Palghar,Pin:401303</div>
+</div>
+<hr>
+
+
+<style>
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {background-color: #4CAF50;}
+.button2 {background-color: #4CAF50;}
+.button3 {background-color: #4CAF50;}
+.button4 {background-color: #4CAF50;}
+.button5 {background-color: #4CAF50;}
+.button6 {background-color: #4CAF50;}
+.button7 {background-color: #4CAF50;}
+.button8 {background-color: #4CAF50;}
+.button9 {background-color: #4CAF50;}
+</style>
+
+
+<div id=bar align="center">
+<button><a href="#">Home</a></button>
+<button><a href="#">About us</a></button>
+<button><a href="#">Administration</a></button>
+<button><a href="#">Login</a></button>
+<button><a href="#">Examination</a></button>
+<button><a href="#">Notice</a></button>
+<button><a href="#">Department</a></button>
+<button><a href="#">Extra-Curicular</a></button>
+<button><a href="#">Contact us</a></button>
+</div>
+
+<hr>
+
+<div align="center">
+<img src="img 2.png" width="1000" height="200">
+</div>
+
+<hr>
+
+<div align="center">
+
+<iframe src="Frame 1.html" width="600" height="400">
+</iframe>
+
+<iframe src="Frame 2.html" width="600" height="400">
+</iframe>
+
+</div>
+ 
+<div align="center">
+
+<iframe src="Frame 3.html" width="400" height="200">
+</iframe>
+
+<iframe src="Frame 4.html" width="600" height="300">
+</iframe>
+
+<iframe src="Frame 5.html" width="400" height="200">S
+/iframe>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
